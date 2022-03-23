@@ -2,5 +2,4 @@ rootProject.name = 'javacore4.2'
 include 'db'
 include 'service'
 include 'api'
-include 'db'
 
